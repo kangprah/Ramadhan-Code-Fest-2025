@@ -2,6 +2,8 @@
 
 Anime AI Assistant is a terminal-based application that provides an AI assistant with an anime theme. The assistant can respond to user queries in a cute and expressive anime style.
 
+![Anime AI Assistant](https://raw.githubusercontent.com/codewithwan/Ramadhan-Code-Fest-2025/refs/heads/main/Anime-AI/image.png)
+
 ## Features
 
 - Customizable anime character configuration

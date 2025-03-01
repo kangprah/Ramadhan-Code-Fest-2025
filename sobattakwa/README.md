@@ -1,5 +1,5 @@
 # SobatTakwa
-
+<img src="https://res.cloudinary.com/da5ggxk01/image/upload/v1730453159/ffa2993e-cae4-461f-accd-b4aa1d912bd8.png" width="1000">
 Aplikasi Islami yang dibangun menggunakan **Next.js** dan **Shadcn UI**, menawarkan fitur seperti jadwal sholat, pembacaan Al-Quran, dan doa harian.
 
 ## Fitur

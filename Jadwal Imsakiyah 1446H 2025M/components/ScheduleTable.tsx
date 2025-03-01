@@ -81,7 +81,7 @@ export default function ScheduleTable({ data }: ScheduleTableProps) {
         <table className="min-w-full border border-[#e0a96d]">
           <thead>
             <tr>
-              <th className="border border-[#5c3d2e]">Tanggal</th>
+              <th className="border border-[#5c3d2e]">Ramadhan</th>
               <th className="border border-[#5c3d2e]">Imsak</th>
               <th className="border border-[#5c3d2e]">Subuh</th>
               <th className="border border-[#5c3d2e]">Terbit</th>

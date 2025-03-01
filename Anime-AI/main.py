@@ -366,6 +366,7 @@ if __name__ == "__main__":
     
     # Choose the language
     language = interactive_language_selection()
+    clear_screen()
     
     # Display the anime banner
     print_anime_banner(language)
